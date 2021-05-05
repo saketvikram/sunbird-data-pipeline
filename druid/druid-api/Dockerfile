@@ -7,7 +7,7 @@ RUN npm install
 RUN npm install -g typescript@3.8.3
 RUN tsc
 
-FROM node:8.11-slim
+FROM node:8.17-slim
 MAINTAINER "Manjunath Davanam" "manjunathd@Ilimi.in"
 RUN mkdir -p /home/sunbird/druid-proxy-api
 WORKDIR /home/sunbird/druid-proxy-api
