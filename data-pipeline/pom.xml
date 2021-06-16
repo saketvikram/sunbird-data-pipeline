@@ -45,7 +45,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<samza.version>0.14.1</samza.version>
 		<scala.version>2.11</scala.version>
-		<kafka.version>1.1.0</kafka.version>
+		<kafka.version>2.1.1</kafka.version>
 		<jackson-jaxrs.version>1.9.13</jackson-jaxrs.version>
 		<samza.log.dir>/tmp</samza.log.dir>
 		<samza.container.name>test-container</samza.container.name>
