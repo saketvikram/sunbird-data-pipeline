@@ -4,3 +4,4 @@ carbon==0.9.12
 django==1.5.5
 django-tagging==0.3.1
 twisted==13.1.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
