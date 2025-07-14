@@ -11,7 +11,7 @@
     "author": "Manjunath Davanam <manjunathd@ilimi.in>",
     "license": "ISC",
     "dependencies": {
-        "@types/chai-http": "^4.2.0",
+        "@types/chai-http": "^4.2.4",
         "@types/mocha": "^5.2.7",
         "@types/chai": "^4.2.5",
         "asyncawait": "^1.0.8",
@@ -22,8 +22,8 @@
         "express": "^4.17.1",
         "http-status-codes": "^1.4.0",
         "lodash": "^4.17.15",
-        "request": "^2.88.0",
-        "mocha": "^6.2.2",
+        "request": "^2.88.2",
+        "mocha": "^11.0.1",
         "log4js": "^6.1.0",
         "moment": "^2.24.0",
         "http-status": "1.4.2"
